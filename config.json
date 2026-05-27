@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderstringify",
+        "uuid": 16718240,
+        "checksum": "a3w47x"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
